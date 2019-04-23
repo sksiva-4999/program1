@@ -3,10 +3,10 @@ public class Helloworld
 {
 public static void main(String args[])
 {
-int i,n;
-for(i=0;i<=n;i++)
+int i;
+for(i=0;i<=3;i++)
 {
-system.out.println("\n hello world")
+System.out.println("\n hello world");
 }
 }
 }
